@@ -1,4 +1,4 @@
-Url : https://bespoke-medovik-bd4465.netlify.app/
+Url :
 
 🌐 Professional Portfolio Website
 
@@ -132,4 +132,5 @@ Email
 
 Phone
 +91-7386895943
+
 

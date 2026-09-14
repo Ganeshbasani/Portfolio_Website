@@ -7,7 +7,6 @@ A premium, single-file developer portfolio. No build step, no dependencies — j
 |---|---|
 | `index.html` | The complete website (HTML + CSS + JS in one file) |
 | `og-image.png` | Social share preview image (set an absolute URL in the `og:image` meta tag when deploying) |
-| `Basani-Ganesh-Resume.pdf` | One-page resume — wired to every Resume / Download button |
 
 ## Customize in 1 minute
 Open `index.html` and find the `CONFIG` block at the top of the `<script>` section:
